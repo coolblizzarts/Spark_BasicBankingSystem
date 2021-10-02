@@ -7,6 +7,7 @@
 
 **Database: MySQL**  
 
+
 - A dynamic banking website for safe money transactions between customers.
 
 - There are 2 tables created in the database, one containing the Customer details and the other storing the Transaction History.
