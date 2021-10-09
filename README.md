@@ -30,4 +30,4 @@ Website Flow: Home Page > View all Customers > Select and View one Customer > Tr
 
 WEBSITE LINK : [https://youthempowermentb.000webhostapp.com/](https://youthempowermentb.000webhostapp.com/) (This is not a responsive website and would work better in 15.6" laptops) 
 
-GITHUB LINK: https://github.com/elishagras/thesparksbank_website
+GITHUB LINK: https://github.com/coolblizzarts/Spark_BasicBankingSystem.git
